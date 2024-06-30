@@ -1,0 +1,13 @@
+redis
+playwright
+pillow
+beautifulsoup4
+tqdm
+requests
+urllib3
+python-dateutil
+async-timeout
+aiohttp
+uuid
+pymongo
+patchright
